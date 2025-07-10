@@ -1,0 +1,9 @@
+{
+  "name": "create-vite-template-roobar",
+  "version": "1.0.0",
+  "description": "Vite template for RooBar component library",
+  "main": "index.js",
+  "files": ["template"],
+  "keywords": ["vite", "template", "roobar"],
+  "repository": "jonbri/create-vite-template-roobar"
+}
